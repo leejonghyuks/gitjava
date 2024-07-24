@@ -11,5 +11,7 @@ public class test {
 		System.out.println(bb);
 		System.out.println(c);
 	}
+	public void abc(){
+	}
 
 }
