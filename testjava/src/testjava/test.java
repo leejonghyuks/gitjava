@@ -6,6 +6,7 @@ public class test {
 		String a = "hong";
 		int b = 20;
 		int c = 30;
+		int d = 50;
 		System.out.println(a);
 	}
 
