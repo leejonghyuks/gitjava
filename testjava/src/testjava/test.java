@@ -9,6 +9,7 @@ public class test {
 		String bb = "kim";
 		System.out.println(a);
 		System.out.println(bb);
+		System.out.println(c);
 	}
 
 }
