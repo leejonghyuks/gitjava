@@ -8,6 +8,7 @@ public class test {
 		int c = 30;
 		String bb = "kim";
 		System.out.println(a);
+		System.out.println(bb);
 	}
 
 }
